@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970174761220",
+    "project_id": "b-and-s-used-stuff-application",
+    "storage_bucket": "b-and-s-used-stuff-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970174761220:android:9955875077b0c97759e851",
+        "android_client_info": {
+          "package_name": "com.shams.buy_and_sell_used_stuff_mobile_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDrdYVeRbW71iASfLkQW-jOg_5WG-TnxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
