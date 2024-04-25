@@ -1,13 +1,18 @@
 # buy_and_sell_used_stuff_mobile_application
 
 
-با احترام به کاربران عزیز،
+سلام به همه دوستان عزیز،
 
-این اپلیکیشنی که من ساخته‌ام، یک پروژه نهایی/منوگراف است که برای دانشگاه ساخته شده و هیچ هدف تجاری یا بدست آوردن درآمدی ندارد. این اپلیکیشن برای استفاده عموم رایگان و قابل دسترس است.
+من به تازگی پروژه اول خود را در گیت‌هاب به اشتراک گذاشته‌ام و می‌خواهم بگویم که این پروژه دارای کمبودهای زیادی است. از هر گونه راهنمایی و پیشنهادی که از طرف شما عزیزان دریافت می‌کنم، بسیار سپاسگزار خواهم شد تا بتوانم برای پروژه‌های آینده بهره‌ور شوم. با تشکر از حمایت و کمک شما.
 
-Dear users,
+با احترام،
+محمد حنیف شمس
+Hello everyone,
 
-This application that I have created is a final projec/monograph designed for academic purposes, with no commercial intent or profit-seeking involved. This application is freely available for public use.
+I have just shared my first project on GitHub and I would like to mention that it has many shortcomings. I would greatly appreciate any guidance and suggestions from those who view it, so that I can learn and improve for future projects. Your feedback is invaluable to me and I am eager to incorporate it into my work. Thank you in advance for your support and assistance.
+
+Best regards,
+Mohammad Hanif Shams
 
 ## Getting Started
 
