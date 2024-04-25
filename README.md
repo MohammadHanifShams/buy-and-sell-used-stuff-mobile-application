@@ -1,18 +1,19 @@
 # buy_and_sell_used_stuff_mobile_application
 
 
+
 سلام به همه دوستان عزیز،
-
 من به تازگی پروژه اول خود را در گیت‌هاب به اشتراک گذاشته‌ام و می‌خواهم بگویم که این پروژه دارای کمبودهای زیادی است. از هر گونه راهنمایی و پیشنهادی که از طرف شما عزیزان دریافت می‌کنم، بسیار سپاسگزار خواهم شد تا بتوانم برای پروژه‌های آینده بهره‌ور شوم. با تشکر از حمایت و کمک شما.
-
 با احترام،
-محمد حنیف شمس
+محمد حنیف شمس 
+
 Hello everyone,
-
 I have just shared my first project on GitHub and I would like to mention that it has many shortcomings. I would greatly appreciate any guidance and suggestions from those who view it, so that I can learn and improve for future projects. Your feedback is invaluable to me and I am eager to incorporate it into my work. Thank you in advance for your support and assistance.
-
 Best regards,
 Mohammad Hanif Shams
+
+
+
 
 ## Getting Started
 
